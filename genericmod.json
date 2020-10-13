@@ -18,8 +18,28 @@
     },
 	{
 	  "operation": "append",
+      "path": "MageTalk.txt",
+      "item": "I once forgot to add an ingredient to a potion,and the potion enlarged my rump!"
+    },
+	{
+	  "operation": "append",
       "path": "MineTalk.txt",
       "item": "It aint much, but its honest work."
+    },
+	{
+	  "operation": "append",
+      "path": "Name Suffix.txt",
+      "item": "the Bloodlusting.22.0."
+    },
+	{
+	  "operation": "append",
+      "path": "Name Suffix.txt",
+      "item": "the Jealous.0.0."
+    },
+	{
+	  "operation": "append",
+      "path": "QuestItem.txt",
+      "item": "1250.a picture of a God called Huw, the creator of existence"
     },
 	{
 	  "operation": "append",
