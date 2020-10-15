@@ -1,0 +1,95 @@
+{
+  "ModInfo": [
+  {
+	"title": "V1 Race",
+	"description": "Adds a mildy op race of robots."
+  }
+  ],
+  "Patch": [
+    {
+	  "operation": "append",
+      "path": "Race Faces.txt",
+      "item": "V.1337"
+    },
+	{
+	  "operation": "append",
+      "path": "RaceType.txt",
+      "item": "V.10.0.0.4.300.5.1V.100.2V.200.3V.250.known as mysterious steel people,they are extremely effective at combat"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "1337.    _______ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "1337.    #\/\\\/\\\/# "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face1.txt",
+      "item": "1337.   \/ _____ \\  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item": "1337.  \/ \/     \\ \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item": "1337.  \/ \/  #  \\ \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item": "1337.  \/ \/ ### \\ \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item": "1337.  | |     | |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item": "1337.  | |  #  | |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item": "1337.  | | ### | |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item": "1337.  | |# # #| |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face4.txt",
+      "item": "1337.  \\ \\_____\/ \/ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face5.txt",
+      "item": "1337.   \\       \/  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item": "1337.    |     |   "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item": "1337.    | -#- |   "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item": "1337.    | --- |   "
+    }
+  ]
+}
