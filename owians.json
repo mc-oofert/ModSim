@@ -1,0 +1,120 @@
+{
+  "ModInfo": [
+  {
+	"title": "Owians Race",
+	"description": "Adds a mildy dumb looking race of OWOs because why not."
+  }
+  ],
+  "Patch": [
+    {
+	  "operation": "append",
+      "path": "Race Faces.txt",
+      "item": "Owians.4040"
+    },
+	{
+	  "operation": "append",
+      "path": "RaceType.txt",
+      "item": "Owians.0.0.0.3.95.5.Peowo.45.Soldiowo.90.Knighowo.140.known as mysteriously cringe-looking furred creatures,they are slightly weaker and dumber than a human"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "4040.    /\\___/\\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face1.txt",
+      "item": "4040.   /       \\  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item":"4040.  /         \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item":"4040.  /  -   -  \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item":"4040.  /  _   _  \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  o w o  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  o # o  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  O # O  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  o W o  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  O o O  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  U w U  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  O w O  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4040.  |  O W O  |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face4.txt",
+      "item":"4040.  \\         / "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face5.txt",
+      "item":"4040.   \\       /  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4040.    |     |  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4040.    |#####|  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4040.    |##=##|  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4040.    |==#==|  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4040.    |#=#=#| "
+    }
+  ]
+}
