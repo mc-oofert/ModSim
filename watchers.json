@@ -1,0 +1,110 @@
+{
+  "ModInfo": [
+  {
+	"title": "Watchers Race",
+	"description": "Adds an always-watching race of people."
+  }
+  ],
+  "Patch": [
+    {
+	  "operation": "append",
+      "path": "Race Faces.txt",
+      "item": "Watchers.4041"
+    },
+	{
+	  "operation": "append",
+      "path": "RaceType.txt",
+      "item": "Watchers.9.0.0.4.90.5.Watcher.52.Seer.105.Overseer.155.known as men with one large eye,they were born from dark magic"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "4041.    _______ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "4041.    _#####_ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "4041.    8#####8 "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face0.txt",
+      "item": "4041.    /#####\\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face1.txt",
+      "item": "4041.   /  ___  \\  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face2.txt",
+      "item":"4041.  /  /   \\  \\ "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4041.  | <  O  > |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4041.  | <--X--> |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4041.  | <  o  > |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4041.  | <  +  > |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4041.  | <  -  > |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face3.txt",
+      "item":"4041.  | <  X  > |"
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face4.txt",
+      "item":"4041.  \\  \\___/  / "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face5.txt",
+      "item":"4041.   \\       /  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face5.txt",
+      "item":"4041.   \\ - - - /  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4041.    |     |  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4041.    |V   V|  "
+    },
+	{
+	  "operation": "append",
+      "path": "Faces\\Face6.txt",
+      "item":"4041.    |VVVVV|  "
+    }
+  ]
+}
